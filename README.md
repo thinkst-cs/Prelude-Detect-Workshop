@@ -1,6 +1,6 @@
 # Prelude Detect Workshop
 
-![dragonfly](/images/dragonfly.png "Dragonflies have up to a 95% success rate when hunting for prey.")
+![dragonfly](/images/dragonfly.png)
 
 **Welcome to the Prelude Detect Workshop!** 
 
@@ -19,37 +19,37 @@ This instructor-led workshop is designed to be run on a laptop. You will need th
 - Internet access
 - A web browser
 
-## [Lab 1: Prelude CLI](https://github.com/VVX7/Detect-Workshop/blob/main/exercises/01-Prelude-CLI.md)
+## [Lab 1: Prelude CLI](https://github.com/VVX7/Prelude-Detect-Workshop/blob/main/exercises/01-Prelude-CLI.md)
 
 - Install the Prelude CLI
 - Create a Prelude account
 - View your account information
 
-## [Lab 2: Registering Endpoints](https://github.com/VVX7/Detect-Workshop/blob/main/exercises/02-Registering-Endpoints.md)
+## [Lab 2: Registering Endpoints](https://github.com/VVX7/Prelude-Detect-Workshop/blob/main/exercises/02-Registering-Endpoints.md)
 
 - Register an endpoint
 - View endpoint information
 - Delete an endpoint
 
-## [Lab 3: Enabling Tests](https://github.com/VVX7/Detect-Workshop/blob/main/exercises/03-Enabling-Tests.md)
+## [Lab 3: Enabling Tests](https://github.com/VVX7/Prelude-Detect-Workshop/blob/main/exercises/03-Enabling-Tests.md)
 
 - List tests
 - View test queue
 - Enable a test
 
-## [Lab 4: Deploying Probes](https://github.com/VVX7/Detect-Workshop/blob/main/exercises/04-Deploying-Probes.md)
+## [Lab 4: Deploying Probes](https://github.com/VVX7/Prelude-Detect-Workshop/blob/main/exercises/04-Deploying-Probes.md)
 
 - Download an ephemeral probe
 - Run an ephemeral probe
 - Optional: Install a persistent probe
 
-## [Lab 5: Creating Tests](https://github.com/VVX7/Detect-Workshop/blob/main/exercises/05-Creating-Tests.md)
+## [Lab 5: Creating Tests](https://github.com/VVX7/Prelude-Detect-Workshop/blob/main/exercises/05-Creating-Tests.md)
 
 - Create a test
 - Modify a test
 - Upload a test
 
-## [Lab 6: Exploring Dashboards](https://github.com/VVX7/Detect-Workshop/blob/main/exercises/06-Exploring-Dashboards.md)
+## [Lab 6: Exploring Dashboards](https://github.com/VVX7/Prelude-Detect-Workshop/blob/main/exercises/06-Exploring-Dashboards.md)
 
 - Export Credentials
 - Explore the Dashboards
