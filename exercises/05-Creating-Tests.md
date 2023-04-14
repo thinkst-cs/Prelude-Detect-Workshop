@@ -21,9 +21,9 @@ Let's create a test that will write a Pneuma agent for Prelude Operator to disk.
 
 Creating a test is only the first step. You need to modify the test template created in the previous step to make it useful.
 
-Let's download a copy of Pneuma and modify the test to write the Pneuma agent to disk. This Pneuma binary has not been defanged.
+Let's download a copy of [Pneuma](https://github.com/VVX7/pneuma-binaries) and modify the test to write the Pneuma agent to disk. This Pneuma binary has not been defanged.
 
-An example of a test that writes a malicious file to disk can be found [here](https://github.com/VVX7/pneuma-binaries).
+An example of a test that writes a malicious file to disk can be found [here](https://github.com/preludeorg/test/tree/master/tests/74077d3b-6a2f-49fa-903e-99cad6f34cf6).
 
 - Open the test using your preferred IDE.
 - Modify the test to write the Pneuma agent to disk.
